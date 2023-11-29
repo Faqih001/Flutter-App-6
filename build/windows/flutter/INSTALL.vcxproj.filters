@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fakii\Desktop\Flutter\Math Game\build\windows\CMakeFiles\caf80c298af6166a05e9eba56daae15b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DB64D0BB-C374-3853-ACD7-8341C15EB66A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

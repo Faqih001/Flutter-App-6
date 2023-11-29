@@ -1,0 +1,10 @@
+^C:\USERS\FAKII\DESKTOP\FLUTTER\MATH GAME\BUILD\WINDOWS\CMAKEFILES\7018EF3FF60BA38C55A7E25F9328CE33\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/fakii/Desktop/Flutter/Math Game/windows" "-BC:/Users/fakii/Desktop/Flutter/Math Game/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/fakii/Desktop/Flutter/Math Game/build/windows/mathgametutorial.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
